@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+----
+
+# React
+
+### What Is React?
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces
+
+### Tutorial: Intro to React
+https://reactjs.org/tutorial/tutorial.html?fbclid=IwAR1BOLdWTTFiRBm36Gb0yKl_dR2ZPtVuXsS3Cxl_rkwdJtOgQryxJwy-WxU
