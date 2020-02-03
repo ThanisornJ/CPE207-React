@@ -1,9 +1,9 @@
 import React from 'react'
 
 import calculateWinner from '../utils/functions'
-import { Square } from '../components/Square'
+import Square from '../components/Square'
 
-export class Board extends React.Component {
+export default class Board extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
